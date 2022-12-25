@@ -26,7 +26,7 @@ function App() {
           medium: 'tariq78',
           dev: 'tariq2518',
           stackoverflow: '15536371/tariq-hussain', // format: userid/username
-          website: 'https://tariq.github.io',
+          website: 'https://gitprofile-wrzhwt.stackblitz.io',
           phone: '',
           email: 'tariq.hussain2518@gmail.com',
         },
