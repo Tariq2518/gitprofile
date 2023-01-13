@@ -83,7 +83,7 @@ function App() {
         },
         // Track visitor interaction and behavior. https://www.hotjar.com
         hotjar: {
-          id: '3300694',
+          id: '3322172',
           snippetVersion: 6,
         },
         themeConfig: {
