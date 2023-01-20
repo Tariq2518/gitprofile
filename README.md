@@ -1,4 +1,4 @@
-# tariq2518.github.io
+# gitprofile
 
 [Tariq's Portfolio ⚡️](https://gitprofile-wrzhwt.stackblitz.io)
 
