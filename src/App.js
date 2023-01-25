@@ -10,7 +10,7 @@ function App() {
         github: {
           username: 'tariq2518', // Your GitHub org/user name. (Required)
           sortBy: 'stars', // stars | updated
-          limit: 8, // How many projects to display.
+          limit: 8, // How many projects.
           exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
             projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
