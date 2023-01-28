@@ -19,8 +19,8 @@ function App() {
         social: {
           linkedin: 'tariq-hussain-47a4201a4',
           twitter: 'tariqhpk',
-          facebook: '',
-          instagram: '',
+          facebook: 'tariqhpk',
+          instagram: 'tariq.h7',
           dribbble: '',
           behance: '',
           medium: 'tariq78',
