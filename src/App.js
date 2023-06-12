@@ -13,7 +13,7 @@ function App() {
           limit: 10, // How many projects.
           exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
-            projects: ['gitprofile'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+            projects: ['gitprofile', 'tariq2518'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
           },
         },
         social: {
