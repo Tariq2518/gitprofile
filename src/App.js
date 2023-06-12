@@ -9,7 +9,7 @@ function App() {
       config={{
         github: {
           username: 'tariq2518', // Your GitHub org/user name. (Required)
-          sortBy: 'stars', // stars | updated
+          sortBy: 'updated', // stars | updated
           limit: 8, // How many projects.
           exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
